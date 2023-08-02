@@ -3,7 +3,7 @@
 ## Electron app (Node.js)
 
 ```shell
-cd OwnDex
+cd MyDEXProject
 npm install
 ```
 
